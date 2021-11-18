@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap');
+.barras{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    letter-spacing: 3px;
+    font-size: 20px;
+
+}
+.barras:hover{
+    color: rgb(1, 20, 100);
+    color: rgb(46, 81, 223);
+    list-style-type: square;
+
+}
+.registro{
+    font-size: 70px;
+    font-weight: 400;
+}
+ .text-cust{
+    font-size: 85px;
+    font-weight: 700;
+}
+.text-custsm{
+    font-size: 35px;
+    font-weight: 700;
+ .index-cust{
+
+    padding-left: 220px;
+}
+
+
+.text-cust-two {
+    font-size: 50px;
+    color: black;
+    font-weight: 700;
+}
+.cont-cust{
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 20px;
+    border: 0px;
+}
+h4{
+    font-weight: bold;
+}
+h5{
+    font-weight: 900;
+    font-weight: bold;
+    
+}
+.cont-custt{
+    background-color: rgb(196, 184, 184);
+    border-radius: 6px;
+}
+.sub-contacto{
+    font-weight: 700;
+}
+.desc-cust{
+    color: black;
+}  
+
+ .pagina{
+.pagina{
+    background-color: rgb(223, 223, 223);
+    background-image: url("/imagenes/Fondos-01.png");
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.linkedin {
+    color: white;
+}
+.github{
+    color: white;
+}
+p{
+    font-size: large;
+    font-weight: 500;
+}
